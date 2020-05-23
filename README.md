@@ -6,7 +6,7 @@ Yet only the quadcopter is ready. Work related to vision left.
 
 
 ## Contributors  
- - Rahul Kumar, Joop brokking
+ - Rahul Kumar, Joop Brokking
  ## License & copyright
  © 2019 Rahul Kumar, joop Brokking    
  Licensed under the [MIT License](LICENSE)
