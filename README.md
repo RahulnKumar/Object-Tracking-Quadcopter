@@ -1,4 +1,4 @@
-# Object-Tracking-Quadcopter (Ongoing Project)
+# Object-Tracking-Quadcopter (On hold project)
 The aim of this project  is to make a quadcopter track any  object or person in real time.   
 Yet only the quadcopter is ready. Work related to vision left.
 ![](Assets/test.gif)  
